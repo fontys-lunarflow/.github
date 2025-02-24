@@ -1,3 +1,3 @@
 # Project Sunshine
 
-Marketing and communications program for the Eclipse Foundation.
+Marketing and communications project for the Eclipse Foundation.
