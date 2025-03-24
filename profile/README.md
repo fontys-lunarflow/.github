@@ -1,3 +1,3 @@
-# Project Sunshine
+# Project Lunarflow
 
-Marketing and communications project for the Eclipse Foundation.
+Event visualization project for the marketing and communications department of the Eclipse Foundation.
